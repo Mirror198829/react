@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 简介
+Facebook推出，2013年开源
 
 ## Available Scripts
 
