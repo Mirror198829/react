@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 简介
+Facebook推出，2013年开源。react16.1之后被称为`React Fiber`，因为16.1版本之后的react底层算法做了修改。
 
 ## Available Scripts
 
