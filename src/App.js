@@ -4,6 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        { 1 + 2}
         hello react
       </div>
     );
