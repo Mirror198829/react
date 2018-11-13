@@ -3,6 +3,7 @@ Facebook推出，2013年开源。react16.1之后被称为`React Fiber`，因为1
 # 组件
 react组件里面必须要有函数render
 # JSX语法
+可以在jsx语法里面写js代码
 ## Available Scripts
 
 In the project directory, you can run:
